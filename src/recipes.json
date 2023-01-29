@@ -76,7 +76,8 @@
       },
       {
         "name": "Красный лук",
-        "count": 50
+        "count": 50,
+        "measureUnit": "г."
       }
     ],
     "cookingInstructions": {
